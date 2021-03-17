@@ -1,0 +1,20 @@
+{
+  "name": "unit7-problem-set-0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-http-application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node-http-application.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalvarez2016/unit7-problem-Set-0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalvarez2016/unit7-problem-Set-0/issues"
+  },
+  "homepage": "https://github.com/jalvarez2016/unit7-problem-Set-0#readme"
+}
